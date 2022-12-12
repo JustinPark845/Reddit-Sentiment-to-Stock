@@ -1,7 +1,7 @@
 # Natural-Language-Processing-Final-Project
 Welcome! This is the respository for the Natural Language Processing Final Project on Reddit Stock Sentiment. Below we detail the purpose of each invidiual file, all in ipynb format.
 
-**YFinance.ipynb - **yahoo finance scraper used to output a dictionary of date-to-labels for a specified number of stocks. Data saved to yfinance.txt.<br />
+__YFinance.ipynb - __yahoo finance scraper used to output a dictionary of date-to-labels for a specified number of stocks. Data saved to yfinance.txt.<br />
 **Reddit_PushShift.ipynb - **reddit pushshift scraper used to output a dictionary of date-to-posts for a specified number of stocks. Data saved to (2018 - 5thres_res_2018.txt), (2019 - 5thres_res_2019.txt), (2021 - 5thres_res_2021.txt), (2022 - 10lim_res_2022.txt).<br />
 **MergeDataset.ipynb - **merges the yfinance and pushshift dataset by date to produce a text-to-label dictionary. It is saved as text_to_label.txt and both text_to_label_train.csv and text_to_label_test.csv.<br />
 **Baselines.ipynb - **runs baselines of Naive Bayes, Kneighbors, SVC, and Decision Tree using the text_to_label file.<br />
