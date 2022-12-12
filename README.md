@@ -1,5 +1,7 @@
 # Natural-Language-Processing-Final-Project
-YFinance.ipynb
+Welcome! This is the respository for the Natural Language Processing Final Project on Reddit Stock Sentiment. Below we detail the purpose of each invidiual file, all in ipynb format.
+
+YFinance.ipynb - This is the 
 
 
 
