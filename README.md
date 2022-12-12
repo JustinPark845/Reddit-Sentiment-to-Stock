@@ -1,4 +1,7 @@
 # Natural-Language-Processing-Final-Project
+YFinance.ipynb
+
+
 
 
 All.ipynb
@@ -23,6 +26,3 @@ SentimentEvaluation.ipynb
 
 
 SentimentMLP.ipynb
-
-
-YFinance.ipynb
